@@ -16,4 +16,5 @@ preferences-system-windows.png org.xfce.xfwm4.png
 system-file-manager.png org.xfce.thunar.png
 tweaks.png org.xfce.xfwm4-tweaks.png
 utilities-system-monitor.png org.xfce.taskmanager.png
+utilities-terminal.png org.xfce.terminal-settings.png
 workspace-switcher-top-left.png org.xfce.workspaces.png
